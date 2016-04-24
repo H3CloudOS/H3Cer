@@ -12,6 +12,8 @@
 
 ## Shadowsocks
 
+[官方网站](https://shadowsocks.org/en/index.html)
+
 ## 其他
 
 
