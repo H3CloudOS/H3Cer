@@ -6,17 +6,20 @@
   * [常用软件](tools/software.md)
 
 * [开源](opensource/README.md)
+  * [linux](opensource/llinux.md)
   * [git](opensource/git.md)
   * [github](opensource/github.md)
+  * [gitbook](opensource/gitbook.md)
   * [markdown](opensource/markdown.md)  
   * [开源协议](opensource/open-source-license.md)
-  
+
 * [云计算](cloud/README.md)
   * [docker](cloud/docker.md)
   * [openstack](cloud/openstack.md)
 
+* [数据库](database/README.md)
+    * [database](database/database.md)
+
 * [资源](resouce/README.md)
   * [book](resouce/book.md)
   * [website](resouce/website.md)
-  
-
