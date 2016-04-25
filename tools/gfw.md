@@ -14,7 +14,6 @@
 
 [官方网站](https://shadowsocks.org/en/index.html)
 
-## 其他
+# 其他
 
-
-
+ -[GFW翻墙小结](http://wsgzao.github.io/post/fq/)

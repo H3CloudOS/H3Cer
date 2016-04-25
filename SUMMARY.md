@@ -6,7 +6,7 @@
   * [常用软件](tools/software.md)
 
 * [开源](opensource/README.md)
-  * [linux](opensource/llinux.md)
+  * [linux](opensource/linux.md)
   * [git](opensource/git.md)
   * [github](opensource/github.md)
   * [gitbook](opensource/gitbook.md)

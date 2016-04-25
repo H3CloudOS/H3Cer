@@ -2,6 +2,14 @@
 
 ## OpenStack基础
 
+- 入门
+  - [OpenStack Hack养成指南](https://www.ustack.com/blog/openstack_hacker/)
+  - [社区不是请客吃饭（一）：如何加入OpenStack基金会](http://geek.csdn.net/news/detail/55548)
+  - [社区不是请客吃饭（二）：不出国门也能参与OpenStack Summit](http://geek.csdn.net/news/detail/55787)
+  - [社区不是请客吃饭（三）：如何给 OpenStack 提 bug](http://geek.csdn.net/news/detail/58243)
+  - [Red Hat OpenStack官方培训笔记](http://wsgzao.github.io/post/openstack/)
+
+
 - 消息队列
   - [zmq中文文档(官网翻译)](https://github.com/anjuke/zguide-cn
 )
@@ -28,16 +36,20 @@
   - [OpenStack自动测试框架Tempest](http://www.ibm.com/developerworks/cn/cloud/library/1403_liuyu_openstacktempest/index.html)
 - [stevedore](http://docs.openstack.org/developer/stevedore/)
 
-## 博客
+-Tove
+ -[OpenStack数据库服务Trove解析与实践](http://geek.csdn.net/news/detail/65291)
 
-- OpenStack博客资源
-  - [sammyliu](http://www.cnblogs.com/sammyliu)
+- 贡献相关
+  - [向 OpenStack 贡献您的代码](https://www.ibm.com/developerworks/cn/cloud/library/cl-contributecode-openstack/),经典入门教程。[修正和补充](http://blog.csdn.net/ustc_dylan/article/details/41604049)
+  - [如何开启OpenStack社区贡献之路](http://geek.csdn.net/news/detail/57745)
+  - [OpenStack代码贡献初体验](http://my.oschina.net/zyzzy/blog/509315)
+  - [OpenStack提交代码的review流程](http://www.cnblogs.com/Security-Darren/p/4383838.html)
+  - [openstack社区文档贡献](http://iceyao.blog.51cto.com/9426658/1682037)
+
+## 相关网站
+
+  - [RDO团队](http://blogs.rdoproject.org/)
   - [Ustack官方博客](https://www.ustack.com/blog/ )
-  - [OpenStack Hack养成指南](https://www.ustack.com/blog/openstack_hacker/)
-  - [bingotree](http://bingotree.cn/)
-  - [孔令贤的博客](http://lingxiankong.github.io/)
-  - [虚拟机创建的50个步骤和100个知识点](http://www.cnblogs.com/popsuper1982/p/3927390.html)
-  - [中科院-刘冬](http://blog.csdn.net/gaoxingnengjisuan)
-  - [Neutron、Ceilometer运行机制](http://panpei.net.cn/tags/OpenStack/)
-  - [臭蛋](http://www.choudan.net/tags.html?#anchorOpenStack)
-  - [菩提没有树](http://1.chaoxu.sinaapp.com/archives/category/%E4%BA%91%E8%AE%A1%E7%AE%97/openstack)
+  - [mirantis官方博客](https://www.mirantis.com/blog/)
+  - [openstack中国社区](http://www.openstack.cn/)
+  - [stackalytics](http://stackalytics.com/)，看统计查贡献，不过也是可以水的。
