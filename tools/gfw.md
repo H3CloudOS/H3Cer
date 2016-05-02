@@ -1,19 +1,35 @@
 # 科学上网
 
-这个东西不多说，大家都懂。
+所有内容均来源网络。
 
-# 释疑
-
-[great firewall](http://baike.baidu.com/link?url=Ko6D0GzKfQ2gXQ3oXLr-6_Racoa5uo8UApoNRRV5Jc8LyCYv1fGBGDxMxOV7ULARGidRgcoM6DVh3m06PMD_y823plq8PCCs51xmz6aJoY)，不利于大家成长，所以必须要掌握科学知识。
 
 # 如何
 
 ## VPN
+- [russian VPN](http://www.russianvpn.top/)，不保证一直可用，可以SS或者VPN。
+
 
 ## Shadowsocks
 
-[官方网站](https://shadowsocks.org/en/index.html)
+- [官网](https://shadowsocks.org/en/index.html)
 
 # 其他
+- Chrome插件
+ - [Tunnello](https://chrome.google.com/webstore/detail/tunnello-the-fastest-vpn/hoapmlpnmpaehilehggglehfdlnoegck)
 
- -[GFW翻墙小结](http://wsgzao.github.io/post/fq/)
+- 镜像站
+  - [wen.lu](https://g2.wen.lu/)
+  - [算法组](http://google.suanfazu.com/)
+
+- [hosts方式](https://github.com/racaljk/hosts)，文件地址：
+https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+
+- [赛风](https://psiphon3.com/zh/index.html)，软件地址：
+ https://psiphon3.com/PsiphonAndroid.apk
+ https://psiphon3.com/psiphon3.exe
+
+- [Lantern](https://getlantern.org/)，软件地址：
+https://s3.amazonaws.com/lantern/lantern-installer-beta.exe
+https://s3.amazonaws.com/lantern/lantern-installer-beta.apk
+
+- [GFW翻墙小结](http://wsgzao.github.io/post/fq/)
