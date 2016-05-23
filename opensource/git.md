@@ -1,24 +1,19 @@
 # git
 
-½éÉÜ¾ÍÃâÁË£¬ÄÜµ½ÕâÀï£¬¾ÍÊÇÒªÓÃÁË¡£
+## gitå®‰è£…
 
-## git°²×°
+- [å®‰è£…](https://git-scm.com/downloads)
 
-- [°²×°](https://git-scm.com/downloads)
+## gitå®¢æˆ·ç«¯
 
-## git¿Í»§¶Ë
+- [GUI Clients](https://git-scm.com/downloads/guis) å®˜æ–¹æ±‡æ€»å„å›¾å½¢å®¢æˆ·ç«¯ï¼ŒåŒ…æ‹¬Macã€Windowsã€Linuxä¸‹çš„å®¢æˆ·ç«¯ï¼Œå…è´¹åŠä»˜è´¹çš„éƒ½æœ‰ã€‚æ¨èç›´æ¥ä½¿ç”¨Github Desktopã€‚
+- [Git for windows](https://msysgit.github.io/) é’ˆå¯¹ Window ç³»ç»Ÿå‘å¸ƒçš„å®¢æˆ·ç«¯ï¼Œé›†æˆäº† Shell çª—å£ï¼Œæ–¹ä¾¿åœ¨ Win ä¸‹é¢ä½¿ç”¨å‘½ä»¤æ“ä½œã€‚
 
-- [GUI Clients](https://git-scm.com/downloads/guis) ¹Ù·½»ã×Ü¸÷Í¼ĞÎ¿Í»§¶Ë£¬°üÀ¨Mac¡¢Windows¡¢LinuxÏÂµÄ¿Í»§¶Ë£¬Ãâ·Ñ¼°¸¶·ÑµÄ¶¼ÓĞ¡£ÍÆ¼öÖ±½ÓÓÂÊ¿Github Desktop¡£
-- [Git for windows](https://msysgit.github.io/) Õë¶Ô Window ÏµÍ³·¢²¼µÄ¿Í»§¶Ë£¬¼¯³ÉÁË Shell ´°¿Ú£¬·½±ãÔÚ Win ÏÂÃæÊ¹ÓÃÃüÁî²Ù×÷¡£
+## gitå…¥é—¨
 
-## gitÈëÃÅ
-
-- [¹ÙÍø](https://git-scm.com/)
-- [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ¹ØÓÚÊ¹ÓÃ Git ºÍ Github µÄÒ»Ğ©¼¼ÇÉ»ã×Ü£¬ÖĞÎÄ°æ[GitHubÃØ¼®](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
-- [Git for beginners: The definitive practical guide - from stackoverflow.com](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide?rq=1)  It's so useful to a beginner ,just open the url , read and practice .
-- [Visual Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html) Í¨¹ı Git µÄ¼¸¸ö¹¤×÷Çø Stash¡¢Workspace¡¢Index¡¢Local Repository¡¢Upstream Repository À´»ã×ÜÈÕ³£Ê¹ÓÃµÄ Git ÃüÁî£¬±¸ÍüÍÆ¼ö¡£
-- [Pro Git](https://git-scm.com/book/en/v2) ×÷ÕßScott ChaconÊÇ Github µÄÔ±¹¤£¬ÖĞÎÄ°æ¡¶[Pro Git (Editon 2)](https://git-scm.com/book/zh/v2)¡·¡£
-- [Git-internals-pdf](https://github.com/pluralsight/git-internals-pdf) ÀÏÍâĞ´µÄ£¬ºÜ¸øÁ¦£¬´ÓÄ¿Â¼ÉÏÃæ°üÀ¨°²×°Ê¹ÓÃÒÔ¼°Éè¼ÆÔ­Àí¶¼ÓĞ½²½â¡£
-- [Git Community Book](http://gitbook.liuhui998.com/) »ã¾ÛÁË Git ÉçÇøµÄºÜ¶à¾«»ª,  ²¢¶Ô Git µÄ¶ÔÏóÄ£ĞÍÔ­ÀíµÈ×öÁË½âÊÍ£¬¿ÉÒÔÉîÈëµÄÁË½âÏÂ Git Ô­Àí¡£pdfµç×Ó°æ±¾Ö±½ÓÏÂÔØµØÖ· [Git Community Book.pdf](ebooks/Git Community Book.pdf)
-- [GitÈ¨ÍşÖ¸ÄÏ](http://book.douban.com/subject/6526452/) ¹úÄÚ°æ±¾¿ØÖÆ×ÉÑ¯¹ËÎÊ½¯öÎÏÈÉúµÄÔ­´´Êé¼®£¬Ô­ÉúÖĞÎÄĞğÊö£¬¸üÈİÒ×Àí½â£¬²é¿´[×÷ÕßĞ´ÊéµÄÔµÓÉ](http://www.worldhello.net/gotgit/)
-- [Git Reference](http://gitref.org/) [ÖĞÎÄ](http://gitref.org/zh/index.html) ÎªÑ§Ï°Óë¼ÇÒä Git Ê¹ÓÃÖĞ×îÖØÒª¡¢×îÆÕ±éµÄÃüÁîÌá¹©¿ìËÙ·­ÔÄ£¬¿É×÷Îª²Î¿¼×ÊÁÏ¡£
+- [å®˜ç½‘](https://git-scm.com/)
+- [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ï¼Œå…³äºä½¿ç”¨ Git å’Œ Github çš„ä¸€äº›æŠ€å·§æ±‡æ€»ï¼Œä¸­æ–‡ç‰ˆ[GitHubç§˜ç±](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+- [Pro Git](https://git-scm.com/book/en/v2) ï¼Œä¸­æ–‡ç‰ˆ[Pro Git (Editon 2)](https://git-scm.com/book/zh/v2)ï¼Œä½œè€…Scott Chaconæ˜¯ Github çš„å‘˜å·¥ã€‚
+- [Git-internals-pdf](https://github.com/pluralsight/git-internals-pdf)
+- [Git Community Book](http://gitbook.liuhui998.com/) ï¼Œæ±‡èšäº† Git ç¤¾åŒºçš„å¾ˆå¤šç²¾å,  å¹¶å¯¹ Git çš„å¯¹è±¡æ¨¡å‹åŸç†ç­‰åšäº†è§£é‡Šï¼Œå¯ä»¥æ·±å…¥çš„äº†è§£ä¸‹ Git åŸç†ã€‚
+- [Git Reference](http://gitref.org/)ï¼Œä¸­æ–‡ç‰ˆ[Git å‚è€ƒ](http://gitref.org/zh/index.html)ã€‚
